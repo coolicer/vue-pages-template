@@ -1,4 +1,4 @@
-# live
+# Demo
 
 > A Vue.js project
 
